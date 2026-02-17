@@ -83,8 +83,8 @@ public class WebWishListTest {
         log.info("wait for 6 sec...");
         Thread.sleep(6000);
         log.info("Entering login credentials...");
-        logInPage.enterEmail("######");
-        logInPage.enterPassword("######");
+        logInPage.enterEmail("");
+        logInPage.enterPassword("");
         log.info("Submitting login form...");
         logInPage.clickSubmitLogIn();
         Utility.waitForPageToLoad(driver, 10); // Ensure the page is fully loaded
@@ -112,7 +112,7 @@ public class WebWishListTest {
         log.info("first Test completed successfully!");
 
         log.info("Starting second test...");
-        log.info("open (test33) product page...");
+        log.info("open (test) product page...");
         BasePage.openUrl("https://www.raneen.com/ar/catalog/product/view/id/413176"); //open (Test33) product page
         Utility.waitForPageToLoad(driver, 10); // Ensure the page is fully loaded
         log.info("Adding product to wish list...");
