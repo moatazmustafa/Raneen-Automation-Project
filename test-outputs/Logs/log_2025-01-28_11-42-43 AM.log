@@ -1,0 +1,5 @@
+[INFO] 28-01-2025 11:42:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case prepare passed
+[INFO] 28-01-2025 11:42:43 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:12)] - Test Case 'testWishListFunctionality' started
+[INFO] 28-01-2025 11:43:36 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testWishListFunctionality passed
+[INFO] 28-01-2025 11:43:36 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:17)] - Test Case 'testWishListFunctionality' passed
+[INFO] 28-01-2025 11:43:36 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case teardown passed

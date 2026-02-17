@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test script for verifying the web wish list functionality","2806","testWishListFunctionality","Raneen Suite","Sun Jan 26 14:51:02 EET 2025","passed","Sun Jan 26 14:51:05 EET 2025","Tests.WebWishListTest","Raneen Cloud Tests","Tests.WebWishListTest","testWishListFunctionality"
