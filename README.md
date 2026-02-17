@@ -167,10 +167,3 @@ Senior Software Tester (Manual & Automation)
 
 ⸻
 
-
-<p align="center">
-  <!-- Bottom animated wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
-</p>
-```
-
